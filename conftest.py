@@ -1,5 +1,5 @@
-from model.Kinopoisk_testing_api import Kinopoisk_testing_api
-from model.Kinopoisk_testing_ui import Kinopoisk_testing_ui
+from Model.Kinopoisk_testing_api import Kinopoisk_testing_api
+from Model.Kinopoisk_testing_ui import Kinopoisk_testing_ui
 import config
 import pytest
 from selenium import webdriver
